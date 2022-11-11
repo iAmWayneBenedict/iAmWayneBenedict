@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Chapters](https://github.com/iAmWayneBenedict/chapters)
 
-- 📫 How to reach me **iraola.wayne.v@gmail.com**
+- 📫 How to reach me **wayneb.iraola@outlook.com**
 
 - ⚡ Fun fact **I can hack NASA with HTML**
 
