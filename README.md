@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Wayne</h1>
 <h3 align="center">A graduating student from Camarines Sur, Philippines, aspiring to be a fullstack developer</h3>
 
-- 🔭 I’m currently working on [Chapters](https://github.com/iAmWayneBenedict/chapters)
 
-- 🌱 I’m currently learning **MERN Stack Developemnt**
+  - 🔭 I’m currently working on [Chapters](https://github.com/iAmWayneBenedict/chapters)
 
-- 👯 I’m looking to collaborate on [Chapters](https://github.com/iAmWayneBenedict/chapters)
+  - 🌱 I’m currently learning **MERN Stack Developemnt**
 
-- 🤝 I’m looking for help with [Chapters](https://github.com/iAmWayneBenedict/chapters)
+  - 👯 I’m looking to collaborate on [Chapters](https://github.com/iAmWayneBenedict/chapters)
 
-- 📫 How to reach me **wayneb.iraola@outlook.com**
+  - 🤝 I’m looking for help with [Chapters](https://github.com/iAmWayneBenedict/chapters)
 
-- ⚡ Fun fact **I can hack NASA with HTML**
+  - 📫 How to reach me **wayneb.iraola@outlook.com**
+
+  - ⚡ Fun fact **I can hack NASA with HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,26 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamwaynebenedict&" alt="iamwaynebenedict" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cqmjkgq1w91z1rdhmao2jduoi&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=cqmjkgq1w91z1rdhmao2jduoi&redirect=true)
+<h3 align="left">Currently listening:</h3>
 
-# Rule 1
-Description for rule 1.
-
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cqmjkgq1w91z1rdhmao2jduoi&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
