@@ -30,3 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamwaynebenedict&" alt="iamwaynebenedict" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cqmjkgq1w91z1rdhmao2jduoi&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=cqmjkgq1w91z1rdhmao2jduoi&redirect=true)
+
