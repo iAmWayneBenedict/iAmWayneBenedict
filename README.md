@@ -14,6 +14,9 @@
 
   - ⚡ Fun fact **I can hack NASA with HTML**
 
+### Visits
+![](https://visitor-badge.laobi.icu/badge?page_id=iamwaynebenedict.iamwaynebenedict&left_text=Profile+Visits)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:wayneb.iraola@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
