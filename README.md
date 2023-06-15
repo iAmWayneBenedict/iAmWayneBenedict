@@ -17,7 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:wayneb.iraola@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iamwaynebenedict/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iamwaynebenedict/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dribbble.com/iamwaynebenedict/shots"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Specializing in MERN Stack Development with TypeScript:</h3>
