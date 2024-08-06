@@ -2,9 +2,9 @@
 <h3 align="center">A graduating student from Camarines Sur, Philippines, aspiring to be a Full-Stack Developer</h3>
 
 
-  - 🔭 I’m currently working on my [Portfolio](https://github.com/iAmWayneBenedict/portfolio)
+  - 🔭 I’m currently working on Concentrix
 
-  - 🌱 I’m currently learning **MERN Stack Developemnt**
+  - 🌱 I’m currently learning **Next JS**
 
   - 👯 I’m looking to collaborate on [Chapters](https://github.com/iAmWayneBenedict/chapters)
 
