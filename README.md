@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wayne</h1>
-<h3 align="center">A graduating student from Camarines Sur, Philippines, aspiring to be a Full-Stack Developer</h3>
+<h3 align="center">A Junior Developer from Camarines Sur, Philippines, aspiring to be a Full-Stack Developer</h3>
 
 
   - 🔭 I’m currently working on Concentrix
