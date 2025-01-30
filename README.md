@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wayne</h1>
-<h3 align="center">A Junior Developer from Camarines Sur, Philippines, aspiring to be a Full-Stack Developer</h3>
+<h3 align="center">A Software Developer from Camarines Sur, Philippines, building software for everyone.</h3>
 
 
-  - 🔭 I’m currently working on Concentrix
+  - 🔭 I’m currently working on myself
 
   - 🌱 I’m currently learning **Next JS**
 
@@ -12,7 +12,7 @@
 
   - 📫 How to reach me **wayneb.iraola@outlook.com**
 
-  - ⚡ Fun fact **I can hack NASA with HTML**
+  - ⚡ Fun fact **I'm building an interesting app!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
