@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wayne</h1>
 <h3 align="center">A Software Developer from Camarines Sur, Philippines, building software for everyone.</h3>
 
-
-  - 🔭 I’m currently working on myself
-
-  - 🌱 I’m currently learning **Next JS**
-
-  - 👯 I’m looking to collaborate on [Chapters](https://github.com/iAmWayneBenedict/chapters)
-
-  - 🤝 I’m looking for help with [Chapters](https://github.com/iAmWayneBenedict/chapters)
-
   - 📫 How to reach me **wayneb.iraola@outlook.com**
 
   - ⚡ Fun fact **I'm building an interesting app!**
