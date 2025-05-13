@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center">I'm a Fullstack Developer from Camarines Sur, Philippines.<br><br>- 📚 I'm currently learning <b> Laravel and Vue</b><br>- ⚡ In my free time I build interesting projects.</p>
+<p align="center">I'm a Fullstack Developer from Camarines Sur, Philippines.<br><br>- 📚 I'm currently learning <b> Laravel, Vue, AI Integration/Optimization, and Retrieval Augmented Generation (RAG) for AI</b><br>- ⚡ In my free time I build interesting projects.</p>
 
 
 
