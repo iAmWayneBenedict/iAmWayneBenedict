@@ -23,7 +23,7 @@
 
 <p align="left">I'm a Fullstack Developer from Camarines Sur, Philippines.<br><br>
   - 🔭 I'm working on our SaaS apps.<br>
-  - 📚 I'm currently learning <b> Laravel, Vue, AI Integration/Optimization, and Retrieval Augmented Generation (RAG) for AI</b><br>
+  - 📚 I'm currently learning <b>TanStack Start, Docker, CI/CD Pipelines, Optimizations, and Redis</b><br>
   - ⚡ In my free time I build interesting projects.
 </p>
 
