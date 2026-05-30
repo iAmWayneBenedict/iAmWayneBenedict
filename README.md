@@ -22,8 +22,8 @@
 ###
 
 <p align="left">I'm a Fullstack Developer from Camarines Sur, Philippines.<br><br>
-  - 🔭 I'm working on our SaaS apps.<br>
-  - 📚 I'm currently learning <b>TanStack Start, Docker, CI/CD Pipelines, Optimizations, and Redis</b><br>
+  - 🔭 I'm working on our SaaS apps and my Home lab<br>
+  - 📚 I'm currently learning <b>TanStack Start, Docker, CI/CD Pipelines, Optimizations, Redis, Linux, and Home lab</b><br>
   - ⚡ In my free time I build interesting projects.
 </p>
 
